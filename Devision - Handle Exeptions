@@ -17,6 +17,10 @@ class Program
             Console.WriteLine("Please enter a valid value for the division.");
             Console.WriteLine("Error: " + error.Message);
         }
+        finally
+        {
+            Console.WriteLine("\nWanna do it again? Please press Enter.");
+        }
 
         Console.ReadLine(); 
     }
