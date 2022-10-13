@@ -1,0 +1,15 @@
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\bin\Debug\net6.0\HR_Manager.exe
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\bin\Debug\net6.0\HR_Manager.deps.json
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\bin\Debug\net6.0\HR_Manager.runtimeconfig.json
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\bin\Debug\net6.0\HR_Manager.dll
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\bin\Debug\net6.0\HR_Manager.pdb
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.csproj.AssemblyReference.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.AssemblyInfoInputs.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.AssemblyInfo.cs
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.dll
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\refint\HR_Manager.dll
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.pdb
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\HR_Manager.genruntimeconfig.cache
+C:\Users\Linh\Desktop\Telekom + Ausbildung\My C# Projects\HR_Manager\HR_Manager\obj\Debug\net6.0\ref\HR_Manager.dll
